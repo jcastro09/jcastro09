@@ -19,6 +19,7 @@ jobs:
         with:
           github_user_name: jcastro09
           outputs: dist/snake.svg
+          github_user_contributions_last_year: true
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
