@@ -1,24 +1,14 @@
-<h1 align="left">Olá 👋 Eu sou o João Castro</h1>
+<h1 align="left">João Rodrigues</h1>
 
-###
+<p align="left">Data Engineer · Especialista de Dados · Brasil</p>
 
-<p align="left">Especialista de Dados | Data Engineer</p>
+<p align="left">
+Construo pipelines de dados escaláveis em produção — ingestão, transformação e analytics — com Python, Spark e Databricks em ambientes cloud (AWS/Azure). Especializado em arquiteturas lakehouse e engenharia de dados de ponta a ponta.
+</p>
 
-###
+<br/>
 
-<h2 align="left">Sobre mim</h2>
-
-<img align="right" height="150" src="https://user-images.githubusercontent.com/80779522/144221644-a873830d-6ce8-4221-975a-e05c7fb6319a.gif" />
-
-###
-
-<p align="left">🔭 Atualmente trabalhando com <strong>Engenharia de Dados</strong><br>🌱 Estudando <strong>Databricks, Spark & Cloud</strong><br>💬 Pergunte-me sobre <strong>Python, SQL, ETL & Data Pipelines</strong><br>📍 Brasil<br>📫 <a href="https://br.linkedin.com/in/joao1996">LinkedIn</a></p>
-
-###
-
-<h2 align="left">Skills</h2>
-
-###
+<h2 align="left">Stack</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
@@ -31,7 +21,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="kafka logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="spark logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="40" alt="spark logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
   <img width="12" />
@@ -50,19 +40,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
 </div>
 
-###
+<br/>
 
-<div align="left">
-  <a href="https://br.linkedin.com/in/joao1996" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-</div>
+<h2 align="left">Contacto</h2>
 
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jcastro09.jcastro09&" />
-</div>
-
-###
-
+<a href="https://br.linkedin.com/in/joao1996">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+</a>
